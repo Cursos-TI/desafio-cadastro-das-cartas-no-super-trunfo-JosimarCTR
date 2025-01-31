@@ -49,7 +49,8 @@ int main() {
     printf("\nEstado4: %s Nome4: %s Codigo4: %s Populacao4: %d turisticos4: %d Area4: %f PIB4: %f", estado4, nome4, codigo4, populacao4, turisticos4, area4, pib4);
 
 
-
+printf("\nPesquisar Estado - Nome - Codigo - Populacao - Turisticos - Area - PIB\n");
+scanf("%s %d %f", &estado, &nome, &codigo, &populacao, &turisticos, &area, &pib);
 
 
 
